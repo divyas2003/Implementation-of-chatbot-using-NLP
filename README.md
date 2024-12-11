@@ -1,0 +1,2 @@
+I would like to thank Edunet Foundation for providing this internship opportunity and for their guidance throughout the project.
+This repository contains the implementation of a chatbot using Natural Language Processing (NLP) techniques, developed as part of an internship with Edunet Foundation. The project demonstrates the use of modern NLP models to create an interactive chatbot capable of understanding and generating meaningful responses to user inputs.
